@@ -54,3 +54,5 @@ for(let i=1;i<=t;i++)
 { document.write("<li>"+p[o[i]]+"<br>R:"+r[o[i]]);}
 document.write("</ol></div>");
 }
+
+console.log("oi")
